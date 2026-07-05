@@ -41,9 +41,9 @@ SQL is one of the most important skills in the data domain. Through this reposit
 
 ## 📈 Progress Tracker
 
-- [ ] Introduction
-- [ ] Select/From Clause
-- [ ] WHERE Clause
+- [x] 01_Introduction
+- [x] 02_Select/From Clause
+- [x] 03_WHERE Clause
 - [ ] Aggregate Functions
 - [ ] GROUP BY & HAVING
 - [ ] Joins
