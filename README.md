@@ -51,7 +51,7 @@ SQL is one of the most important skills in the data domain. Through this reposit
 - [x] 06_HAVING_Clause
 - [x] 07_DISTINCT_Keyword
 - [x] 08_TOP_Keyword
-- [ ] 09_Order_of_Execution
+- [x] 09_Order_of_Execution
 - [ ] 10_Aggregate_Functions
 - [ ] 11_Joins
 - [ ] 12_Subqueries
