@@ -52,11 +52,12 @@ SQL is one of the most important skills in the data domain. Through this reposit
 - [x] 07_DISTINCT_Keyword
 - [x] 08_TOP_Keyword
 - [x] 09_Order_of_Execution
-- [ ] 10_Aggregate_Functions
-- [ ] 11_Joins
-- [ ] 12_Subqueries
-- [ ] 13_CTEs
-- [ ] 14_Window_Functions
+- [x] 10_DDL_Create_Alter_Drop_Truncate
+- [ ] 11_Aggregate_Functions
+- [ ] 12_Joins
+- [ ] 13_Subqueries
+- [ ] 14_CTEs
+- [ ] 15_Window_Functions
 
 ## 🌟 Purpose
 
