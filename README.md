@@ -53,7 +53,7 @@ SQL is one of the most important skills in the data domain. Through this reposit
 - [x] 08_TOP_Keyword
 - [x] 09_Order_of_Execution
 - [x] 10_DDL_Create_Alter_Drop_Truncate
-- [ ] 11_DML
+- [x] 11_DML
 - [ ] 12_Aggregate_Functions
 - [ ] 13_Joins
 - [ ] 14_Subqueries
