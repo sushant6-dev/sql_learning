@@ -41,8 +41,6 @@ SQL is one of the most important skills in the data domain. Through this reposit
 
 ## 📈 Progress Tracker
 
-## 📈 Progress Tracker
-
 - [x] 01_Introduction
 - [x] 02_Select_From_Clause
 - [x] 03_WHERE_Clause
